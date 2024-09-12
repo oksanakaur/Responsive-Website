@@ -298,3 +298,7 @@ header .sticky {
     transform: scale(1.03) translateY(-6px);
     cursor: pointer;
 }
+
+.box:hover h5 {
+    color: var(--main-color);
+}
