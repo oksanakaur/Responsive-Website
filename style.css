@@ -302,3 +302,11 @@ header .sticky {
 .box:hover h5 {
     color: var(--main-color);
 }
+
+.exb-content {
+    margin-top: 4rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 1rem;
+}
